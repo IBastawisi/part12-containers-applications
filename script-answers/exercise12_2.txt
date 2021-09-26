@@ -1,0 +1,8 @@
+Script started on 2021-09-27 00:10:25+02:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="120" LINES="30"]
+]0;ibastawisi@Ibrahim-PC: /mnt/c/Users/IBast[01;32mibastawisi@Ibrahim-PC[00m:[01;34m/mnt/c/Users/IBast[00m$ exitdocker container run hello-world-v[Kgit config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/libexec/git-core/git-credential-manager-core.exe"[Adocker -v[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccontainer run hello-worldexit[K[Kdocker run -it ubuntu bash
+]0;root@5aaa81926351: /root@5aaa81926351:/# [K]0;root@5aaa81926351: /root@5aaa81926351:/# mkdir /usr/src/app
+]0;root@5aaa81926351: /root@5aaa81926351:/# touch /usr/src/app/index.js
+]0;root@5aaa81926351: /root@5aaa81926351:/# [Kexit
+exit
+]0;ibastawisi@Ibrahim-PC: /mnt/c/Users/IBast[01;32mi
