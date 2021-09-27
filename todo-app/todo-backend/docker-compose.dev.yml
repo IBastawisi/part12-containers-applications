@@ -1,6 +1,9 @@
 services:
+  server:
+  
   mongo:
     image: mongo
+    container_name: db
     ports:
      - 3456:27017
     environment:
@@ -12,5 +15,6 @@ services:
       - ./mongo_data:/data/db
   redis:
     image: redis
+    container_name: cache
     ports:
      - "6379:6379"
